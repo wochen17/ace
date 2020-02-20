@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46950bf4-68ac-4868-94f2-f2d8c5521ff2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Downloads/maven" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XzRJmhax6yMyw9VXB5fs8FomIF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46950bf4-68ac-4868-94f2-f2d8c5521ff2" name="Default Changelist" comment="" />
+      <created>1582046866874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582046866874</updated>
+      <workItem from="1582046869844" duration="192000" />
+      <workItem from="1582047075824" duration="12328000" />
+      <workItem from="1582196351066" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="96" key="#Project_Structure" timestamp="1582091126020">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="96" key="#Project_Structure/0.23.1440.822@0.23.1440.822" timestamp="1582091126020" />
+    <state x="553" y="179" key="#com.intellij.ide.util.MemberChooser" timestamp="1582114401117">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="553" y="179" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816@0.23.1440.816" timestamp="1582114401117" />
+    <state width="1358" height="2" key="GridCell.Tab.0.bottom" timestamp="1582120767103">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1582120767103" />
+    <state width="1358" height="2" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1582091042131" />
+    <state width="1358" height="2" key="GridCell.Tab.0.center" timestamp="1582120767102">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1582120767102" />
+    <state width="1358" height="2" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1582091042130" />
+    <state width="1358" height="2" key="GridCell.Tab.0.left" timestamp="1582120767102">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1582120767102" />
+    <state width="1358" height="2" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1582091042130" />
+    <state width="1358" height="2" key="GridCell.Tab.0.right" timestamp="1582120767103">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="2" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1582120767103" />
+    <state width="1358" height="2" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1582091042131" />
+    <state x="228" y="23" width="1024" height="816" key="SettingsEditor" timestamp="1582120760352">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="228" y="23" width="1024" height="816" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1582120760352" />
+    <state x="409" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582111691038">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="409" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.822@0.23.1440.822" timestamp="1582111691038" />
+    <state x="97" y="128" key="new project wizard" timestamp="1582091041941">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="97" y="128" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1582091041941" />
+  </component>
+</project>
